@@ -66,32 +66,32 @@
 
 2. 安装前端依赖
 
-                ```bash
-                cd web
-                npm install
-                ```
+ ```bash
+cd web
+npm install
+```
 
 3. 安装后端依赖
 
-                ```bash
-                cd ../server
-                npm install
-                ```
+```bash
+cd ../server
+npm install
+```
 
 4. 配置数据库，导入 `server/sql` 下的建表脚本
 
 5. 启动后端服务
 
-                ```bash
-                npm run start
-                ```
+```bash
+npm run start
+ ```
 
 6. 启动前端开发环境
 
-                ```bash
-                cd ../web
-                npm run serve
-                ```
+```bash
+cd ../web
+npm run serve
+```
 
 7. 访问 [http://localhost:8080](http://localhost:8080) 即可体验
 
