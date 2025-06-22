@@ -1,0 +1,38 @@
+[
+   {
+    "cartInfoList":[
+        {
+            "skuid":"1",
+            "skuName":"iphone16",
+            "skuPrice":"9999",
+            "isChecked":1,
+            "skuNum":1,
+            "imgUrl":"/images/s1.png"
+        },
+        {
+            "skuid":"2",
+            "skuName":"ipad Air",
+            "skuPrice":"6666",
+            "isChecked":1,
+            "skuNum":1,
+            "imgUrl":"/images/s2.png"
+        },
+        {
+            "skuid":"3",
+            "skuName":"iWatch",
+            "skuPrice":"3333",
+            "isChecked":1,
+            "skuNum":2,
+            "imgUrl":"/images/s3.png"
+        },
+        {
+            "skuid":"4",
+            "skuName":"手机壳",
+            "skuPrice":"9",
+            "isChecked":1,
+            "skuNum":5,
+            "imgUrl":"/images/itemlike01.png"
+        }
+    ]
+   }
+]

@@ -1,0 +1,37 @@
+{
+    "categoryView":{
+        "category1Name":"2025新款手机",
+        "category2Name":"华为",
+        "category3Name":"mate pro"
+    },
+    "skuInfo":{
+        "id":1,
+        "skuName":"2025新款",
+        "skuDesc":"降序",
+        "price":"9999",
+        "skuImageList":[
+            {"id":"1","imgUrl":"./images/itemlike01.png"},
+            {"id":"2","imgUrl":"./images/part02.png"},
+            {"id":"3","imgUrl":"./images/s1.png"},
+            {"id":"4","imgUrl":"./images/s2.png"},
+            {"id":"5","imgUrl":"./images/s3.png"}
+        ]
+    },
+    "spuSaleAttrList":[
+        {
+            "id":"1",
+            "saleAttrName":"选择颜色",
+            "spuSaleAttrValueList":[{"id":"1","isChecked":1,"saleAttrValueName":"金"},{"id":"2","isChecked":0,"saleAttrValueName":"银"},{"id":"3","isChecked":0,"saleAttrValueName":"黑"}]
+        },
+        {
+            "id":"2",
+            "saleAttrName":"内存",
+            "spuSaleAttrValueList":[{"id":"1","isChecked":1,"saleAttrValueName":"64GB"},{"id":"2","isChecked":0,"saleAttrValueName":"128GB"},{"id":"3","isChecked":0,"saleAttrValueName":"256GB"}]
+        },
+        {
+            "id":"3",
+            "saleAttrName":"选择版本",
+            "spuSaleAttrValueList":[{"id":"1","isChecked":1,"saleAttrValueName":"公开版"},{"id":"2","isChecked":0,"saleAttrValueName":"移动版"}]
+        }
+    ]
+}

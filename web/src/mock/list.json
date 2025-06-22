@@ -1,0 +1,26 @@
+{
+    "total":"50",
+    "goodsList":[
+        {
+            "id":"1",
+            "defaultImg":"http://39.98.123.211/group1/M00/02/DA/rBHu8mGxO7mAE-3gAACWbB2wj-4610.jpg",
+            "price":"8888",
+            "title":"iphone16"
+        }
+
+    ],
+    "props":["1:**"],
+    "attrsList":[
+        {
+            "attrId":"1",
+            "attrName":"iphone16",
+            "attrValueList":["2000亿像素","超清人像","526GB存储"]
+        }
+    ],
+    "trademarkList":[
+        {
+            "tmId":"1",
+            "tmName":"苹果"
+        }
+    ]
+}
